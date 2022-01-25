@@ -1,0 +1,45 @@
+body {
+    font-size: 7pt;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: monospace;
+}
+
+
+a{
+  color: #9AA6A2;
+}
+
+
+::selection{
+  color: #00FFAC;
+}
+
+
+h1{
+  font-size: 9.1pt;
+  text-align: center;
+}
+
+
+h2{
+  font-size: 7pt;
+  text-align: right;
+  color: #33FF79;
+}
+
+
+h3{
+  font-size: 5pt;
+  text-align: right;
+  color: #00FFAC;
+}
+
+
+h4{
+  font-size: 10pt;
+  text-align: center;
+}
+
+
+
