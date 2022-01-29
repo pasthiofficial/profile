@@ -2,7 +2,7 @@
 new_page_extension: html
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url: https://pasthiofficial.github.io/profile/
 sections:
 - type: heading
   label: Pasthi
